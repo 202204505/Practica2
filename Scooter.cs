@@ -6,44 +6,31 @@ using System.Threading.Tasks;
 
 namespace Practice1
 {
-    class Scooter : Vehicle
+    class Scooter : VehicleNoPlate
     {
         //constant string as TypeOfVehicle wont change allong PoliceCar instances.
-        private static string typeOfVehicle = "Taxi";
-        private bool isCarryingPassengers;
+        private static string typeOfVehicle = "Scooter";
+        private bool riding;
+        //private bool isCarryingPassengers;
 
-        public Scooter(string plate) : base(typeOfVehicle, plate)
+        public Scooter(string typeOfVehicle) : base(typeOfVehicle)
         {
             //Values of atributes are set just when the instance is done if not needed before.
-            isCarryingPassengers = false;
+            //isCarryingPassengers = false;
             SetSpeed(45.0f);
+            riding = true;
         }
-
-        public void StartRide()
-        {
-            if (!isCarryingPassengers)
-            {
-                isCarryingPassengers = true;
-                SetSpeed(100.0f);
-                Console.WriteLine(WriteMessage("starts a ride."));
-            }
-            else
-            {
-                Console.WriteLine(WriteMessage("is already in a ride."));
-            }
-        }
-
         public void StopRide()
         {
-            if (isCarryingPassengers)
+            if (riding)
             {
-                isCarryingPassengers = false;
-                SetSpeed(45.0f);
-                Console.WriteLine(WriteMessage("finishes ride."));
+                riding = false;
+                SetSpeed(0f);
+                Console.WriteLine(WriteMessage("stops riding."));
             }
             else
             {
-                Console.WriteLine(WriteMessage("is not on a ride."));
+                Console.WriteLine(WriteMessage("already stop."));
             }
         }
     }

@@ -12,14 +12,14 @@ namespace Practice1
     {
         private bool alarm;
         private List<PoliceCar> PoliceCarList;
-        private List<Taxi> SpeedingTaxiList;
+        private List<Vehicle> SpeedingTaxiList;
         private City? Ncity;
         private string NamePoliceStation;
 
         public PoliceStation(string namePoliceStation)
         {
             PoliceCarList = new List<PoliceCar>();
-            SpeedingTaxiList = new List<Taxi>();
+            SpeedingTaxiList = new List<Vehicle>();
             alarm = false;
             NamePoliceStation = namePoliceStation;
         }
@@ -29,14 +29,15 @@ namespace Practice1
             Console.WriteLine($"Police car patrolling for {NamePoliceStation}");
             policeCar.setStation(this);  
         }
-        internal void AddSpeedingTaxi(Taxi taxi)
+        internal void AddSpeedingTaxi(Vehicle vehicle)
         {
-            SpeedingTaxiList.Add(taxi);
+            SpeedingTaxiList.Add(vehicle);
             alarm = true;
-            Console.WriteLine($"Vehicle {taxi.GetPlate()} added to speeding list.");
+            Console.WriteLine($"Vehicle {vehicle.GetPlate()} added to speeding list.");
         }
         public void SendChasing()
         {
+            alarm = true;
             Console.WriteLine("Iligally speed detected. Sending all available units on a chase.");
             foreach (PoliceCar car in PoliceCarList)
             {
