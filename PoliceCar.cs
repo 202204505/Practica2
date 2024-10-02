@@ -58,7 +58,6 @@
             }
 
         }
-
         public bool IsPatrolling()
         {
             return isPatrolling;

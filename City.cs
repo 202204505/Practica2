@@ -33,6 +33,7 @@ public class City : IMessageWritter
         if (taxi != null)
         {
             licenceRegister.Remove(taxi);
+            Console.WriteLine("Taxi licence removed correctly");
         }
         else
         { 

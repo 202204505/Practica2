@@ -13,7 +13,7 @@ namespace Practice1
         private bool riding;
         //private bool isCarryingPassengers;
 
-        public Scooter(string typeOfVehicle) : base(typeOfVehicle)
+        public Scooter() : base(typeOfVehicle)
         {
             //Values of atributes are set just when the instance is done if not needed before.
             //isCarryingPassengers = false;

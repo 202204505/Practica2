@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,36 +35,16 @@
       "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:vehicleplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\vehiclenoplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:vehiclenoplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|c:\\users\\usuario\\desktop\\tercero\\paradigmasytecnicasdeprog\\practica2\\p1-vehicle_example\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "PoliceCar.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\PoliceCar.cs",
               "RelativeToolTip": "PoliceCar.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwC8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T16:18:21.698Z",
               "IsPinned": true,
@@ -72,33 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VehiclePlate.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\VehiclePlate.cs",
-              "RelativeDocumentMoniker": "VehiclePlate.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\VehiclePlate.cs",
-              "RelativeToolTip": "VehiclePlate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:38:11.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Taxi.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Taxi.cs",
               "RelativeDocumentMoniker": "Taxi.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Taxi.cs",
               "RelativeToolTip": "Taxi.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T16:18:10.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "IMessageWritter.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\IMessageWritter.cs",
               "RelativeDocumentMoniker": "IMessageWritter.cs",
@@ -111,33 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\City.cs",
-              "RelativeDocumentMoniker": "City.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\City.cs",
-              "RelativeToolTip": "City.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T16:50:16.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "PoliceStation.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\PoliceStation.cs",
               "RelativeDocumentMoniker": "PoliceStation.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\PoliceStation.cs",
               "RelativeToolTip": "PoliceStation.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwBkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T16:45:42.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Vehicle.cs",
               "RelativeDocumentMoniker": "Vehicle.cs",
@@ -145,59 +119,85 @@
               "RelativeToolTip": "Vehicle.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA1wCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:17:23.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T16:17:23.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Scooter.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Scooter.cs",
               "RelativeDocumentMoniker": "Scooter.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Scooter.cs",
               "RelativeToolTip": "Scooter.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T09:39:22.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "VehicleNoPlate.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\VehicleNoPlate.cs",
               "RelativeDocumentMoniker": "VehicleNoPlate.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\VehicleNoPlate.cs",
               "RelativeToolTip": "VehicleNoPlate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T09:38:36.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:22:46.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SpeedRadar.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\SpeedRadar.cs",
               "RelativeDocumentMoniker": "SpeedRadar.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\SpeedRadar.cs",
               "RelativeToolTip": "SpeedRadar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T16:22:24.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Main.cs",
-              "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\Main.cs",
-              "RelativeToolTip": "Main.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\City.cs",
+              "RelativeDocumentMoniker": "City.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\City.cs",
+              "RelativeToolTip": "City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:22:46.009Z"
+              "WhenOpened": "2024-09-30T16:50:16.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiclePlate.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\VehiclePlate.cs",
+              "RelativeDocumentMoniker": "VehiclePlate.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TERCERO\\ParadigmasyTecnicasdeProg\\Practica2\\P1-vehicle_example\\VehiclePlate.cs",
+              "RelativeToolTip": "VehiclePlate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:38:11.359Z",
+              "EditorCaption": ""
             }
           ]
         }
